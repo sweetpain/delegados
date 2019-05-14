@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\exepciones\Delegados\bin\Debug\netcoreapp2.1\Delegados.deps.json
+C:\Users\Usuario\Documents\exepciones\Delegados\bin\Debug\netcoreapp2.1\Delegados.runtimeconfig.json
+C:\Users\Usuario\Documents\exepciones\Delegados\bin\Debug\netcoreapp2.1\Delegados.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\exepciones\Delegados\bin\Debug\netcoreapp2.1\Delegados.dll
+C:\Users\Usuario\Documents\exepciones\Delegados\bin\Debug\netcoreapp2.1\Delegados.pdb
+C:\Users\Usuario\Documents\exepciones\Delegados\obj\Debug\netcoreapp2.1\Delegados.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\exepciones\Delegados\obj\Debug\netcoreapp2.1\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\exepciones\Delegados\obj\Debug\netcoreapp2.1\Delegados.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\exepciones\Delegados\obj\Debug\netcoreapp2.1\Delegados.AssemblyInfo.cs
+C:\Users\Usuario\Documents\exepciones\Delegados\obj\Debug\netcoreapp2.1\Delegados.dll
+C:\Users\Usuario\Documents\exepciones\Delegados\obj\Debug\netcoreapp2.1\Delegados.pdb
